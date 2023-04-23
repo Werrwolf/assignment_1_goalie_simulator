@@ -1,0 +1,365 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"R",
+				"FlxRandom"
+			],
+			[
+				"Fl",
+				"FlxG"
+			],
+			[
+				"ran",
+				"FlxRandom"
+			],
+			[
+				"Ran",
+				"FlxRandom"
+			],
+			[
+				"Flx",
+				"FlxG"
+			],
+			[
+				"windo",
+				"windowHeight"
+			],
+			[
+				"wnidow",
+				"windowHeight"
+			],
+			[
+				"window",
+				"windowHeight"
+			],
+			[
+				"win",
+				"windowWidth"
+			],
+			[
+				"tit",
+				"titleText"
+			],
+			[
+				"Pl",
+				"PlayState"
+			],
+			[
+				"PLa",
+				"PlayState"
+			],
+			[
+				"exit",
+				"exitText"
+			],
+			[
+				"click",
+				"clickExit"
+			],
+			[
+				"pl",
+				"playButton"
+			],
+			[
+				"ex",
+				"exitButton"
+			],
+			[
+				"fl",
+				"FlxG"
+			],
+			[
+				"F",
+				"FlxText"
+			],
+			[
+				"sta",
+				"stageHeight"
+			],
+			[
+				"l",
+				"livesText"
+			],
+			[
+				"s",
+				"stageHeight"
+			],
+			[
+				"pla",
+				"playerScoreText"
+			],
+			[
+				"sco",
+				"score"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"this",
+				"thisPlayer"
+			],
+			[
+				"ba",
+				"ballCatch"
+			],
+			[
+				"FL",
+				"FlxSprite"
+			],
+			[
+				"stage",
+				"stageWidth"
+			],
+			[
+				"FlxS",
+				"FlxSprite"
+			],
+			[
+				"Play",
+				"PlayState"
+			],
+			[
+				"wal",
+				"walkLEft"
+			],
+			[
+				"FlxSp",
+				"FlxSprite"
+			],
+			[
+				"m",
+				"mA"
+			],
+			[
+				"_",
+				"_up"
+			],
+			[
+				"sca",
+				"scaleFactor"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"INsta",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Customize Theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 274.0,
+		"history":
+		[
+			"haxelib install flixel-addons 3.0."
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Assignment_1_Werrlein_Carmen/source/EndState.hx",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Assignment_1_Werrlein_Carmen/source/MenuState.hx",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Assignment_1_Werrlein_Carmen/source/PlayState.hx",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Assignment_1_Werrlein_Carmen/source/Ball.hx",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Assignment_1_Werrlein_Carmen/source/Main.hx",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Assignment_1_Werrlein_Carmen/source/Player.hx",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Assignment_1_Werrlein_Carmen/assets/images/background.png",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/PleaseWork/source/Player.hx",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/PleaseWork/export/html5/bin/index.html",
+		"/C/Users/carme/Documents/Software Projects/Assignment_1_Carmen_Werrlein/source/PlayState.hx",
+		"/C/Users/carme/Documents/Software Projects/Assignment_1_Carmen_Werrlein/source/Main.hx",
+		"/C/Users/carme/Documents/Software Projects/Assignment_1_Carmen_Werrlein/Project.xml",
+		"/C/Users/carme/Documents/Software Projects/Assignment_1_Carmen_Werrlein/.vscode/launch.json",
+		"/C/Users/carme/Documents/Software Projects/Assignment_1_Carmen_Werrlein/Assignment_1_Carmen_Werrlein.sublime-project",
+		"/C/Users/carme/Documents/Software Projects/Assignment_1_Carmen_Werrlein/source/MenuState.hx",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Pong/source/PlayState.hx",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Pong/source/Main.hx",
+		"/C/Users/carme/Documents/Software Projects/Assignment_1_Carmen_Werrlein/source/Ball.hx",
+		"/C/Users/carme/Documents/Software Projects/Assignment_1_Carmen_Werrlein/assets/images/ball.png",
+		"/C/Users/carme/Documents/Software Projects/Assignment_1_Carmen_Werrlein/assets/images/menubackground_resized.png",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Asgnmt_1_Werrlein_Carmen/source/MenuState.hx",
+		"/C/Users/carme/Documents/Software Projects/Assignment_1_Carmen_Werrlein/source/Player.hx",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Asgnmt_1_Werrlein_Carmen/source/Player.hx",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Asgnmt_1_Werrlein_Carmen/source/Ball.hx",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Asgnmt_1_Werrlein_Carmen/source/Main.hx",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Asgnmt_1_Werrlein_Carmen/source/PlayState.hx",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Asgnmt_1_Werrlein_Carmen/source/AssetPaths.hx",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Asgnmt_1_Werrlein_Carmen/assets/images/background_resized.png",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Asgnmt_1_Werrlein_Carmen/assets/images/menubackground_resized.png",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Asgnmt_1_Werrlein_Carmen/assets/images/background.png",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Asgnmt_1_Werrlein_Carmen/assets/images/goal_resized.png",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Asgnmt_1_Werrlein_Carmen/.vscode/launch.json",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Asgnmt_1_Werrlein_Carmen/assets/images/goal.png",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Asgnmt_1_Werrlein_Carmen/assets/images/goalie.png",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Asgnmt_1_Werrlein_Carmen/assets/images/goalie_resized.png",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Asgnmt_1_Werrlein_Carmen/assets/images/menubackground.png",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Pong/source/Platform.hx",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Pong/source/AssetPaths.hx",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/Asgnmt_1_Werrlein_Carmen/Project.xml",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/RunningMan/source/PlayState.hx",
+		"/C/Users/carme/Documents/Software Projects/Haxe Projects/RunningMan/source/Main.hx",
+		"/C/Users/carme/OneDrive/Coplays/Cyberpunk Jacke/Cyberpunk Jacke.jpg"
+	],
+	"find":
+	{
+		"height": 23.2
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.2
+	},
+	"input":
+	{
+		"height": 36.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Project.sublime-project",
+	"replace":
+	{
+		"height": 43.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 172.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
